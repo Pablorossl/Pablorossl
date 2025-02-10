@@ -14,7 +14,7 @@
 
 ## Contact me 📫
 
-if you have any questions or suggestions or want to talk about web development, don´t hesitate to message me! 
+If you have any questions or suggestions or want to talk about web development, don´t hesitate to message me! 
 
 
 
