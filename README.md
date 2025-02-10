@@ -1,4 +1,4 @@
-# Hello, I'm Pablo Rosales 👨🏻‍💻
+# Hi! I'm Pablo Rosales 👨🏻‍💻
 ### Full-Stack Developer 🚀
 
 
@@ -14,10 +14,4 @@
 
 ## Contact me 📫
 
-If you have any questions or suggestions or want to talk about web development, don´t hesitate to message me! 
-
-
-
-
-
-
+If you have any questions or suggestions or want to talk about web development, don´t hesitate to message me! I speak English, Spanish, French, and Portuguese!  
