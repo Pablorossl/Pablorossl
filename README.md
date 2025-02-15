@@ -5,9 +5,9 @@
 Welcome to my GitHub profile! I am passionate about web development and cybersecurity. I am constantly learning to improve my skills.
 
 ## 🛠️ Technologies and Tools
-- 🔹 **Languages:** HTML, CSS, JavaScript
-- 🔹 **Frontend:** Learning and improving my web development skills
-- 🔹 **Backend:** Python (focusing on Django and SQL in the future)
+- 🔹 **Languages:** Python
+- 🔹 **Frontend:** HTML, CSS, JavaScript. Learning and improving my web development skills
+- 🔹 **Backend:** Focusing on Django and SQL in the future
 - 🔹 **Version Control:** Git and GitHub
 - 🔹 **Operating Systems:** Experience with Linux and terminal
 
@@ -23,10 +23,10 @@ Welcome to my GitHub profile! I am passionate about web development and cybersec
 ## 📌 Currently Learning
 - 🔥 Deepening my knowledge in **JavaScript** and best development practices
 - 🔥 Exploring **Django** and **SQL** to enhance my full-stack skills
-- 🔥 Improving my **cybersecurity** knowledge
+- 🔥 Learning about **cybersecurity**
 
 ## 🌱 Goal
-My goal is to become a **full-stack developer**, combining my frontend and backend knowledge and my cybersecurity knowledge to create functional and secure web applications.
+My goal is to become a **full-stack developer**, combining my frontend & backend knowledge and my cybersecurity knowledge to create functional and secure web applications.
 
 ## 📫 Connect with Me
 - 📧 [prosaleslzn@gmail.com]
