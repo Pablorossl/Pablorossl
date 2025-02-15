@@ -1,26 +1,29 @@
-# 👋 ¡Hola! Soy Pablo Rosales
+# 👋 Hello! I'm Pablo Rosales. 
 
-## 🚀 Desarrollador Full-Stack Aprendiz
+## 🚀 Junior Frontend Developer
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo web y ciberseguridad en proceso de aprendizaje, con conocimientos en diversas tecnologías y un enfoque en mejorar cada día.
+Welcome to my GitHub profile! I am passionate about web development and cybersecurity. I am constantly learning to improve my skills.
 
-## 🛠️ Tecnologías y Herramientas
-- 🔹 **Lenguajes:** HTML, CSS, JavaScript
-- 🔹 **Frontend:** Estoy aprendiendo y mejorando mis habilidades en el desarrollo web
-- 🔹 **Backend:** Python (con enfoque en Django y SQL en el futuro)
-- 🔹 **Control de versiones:** Git y GitHub
-- 🔹 **Sistemas operativos:** Experiencia en Linux y terminal
+## 🛠️ Technologies and Tools
+- 🔹 **Languages:** HTML, CSS, JavaScript
+- 🔹 **Frontend:** Learning and improving my web development skills
+- 🔹 **Backend:** Python (focusing on Django and SQL in the future)
+- 🔹 **Version Control:** Git and GitHub
+- 🔹 **Operating Systems:** Experience with Linux and terminal
 
-## 📌 Actualmente aprendiendo
-- 🔥 Profundizando en **JavaScript** y buenas prácticas de desarrollo
-- 🔥 Conociendo **Django** y **SQL** para mejorar mis habilidades como full stack
-- 🔥 Adquiriendo conocimientos de ciberseguridad a medida que avanzo en desarrollo web
+## 📌 Currently Learning
+- 🔥 Deepening my knowledge in **JavaScript** and best development practices
+- 🔥 Exploring **Django** and **SQL** to enhance my full-stack skills
+- 🔥 Improving my **responsive design** and UI/UX skills
 
-## 🌱 Objetivo
-Mi meta es convertirme en un **desarrollador full-stack**, combinando mis conocimientos de frontend con backend, creando aplicaciones web funcionales y seguras.
+## 🌱 Goal
+My goal is to become a **full-stack developer**, combining my frontend and backend knowledge to create functional and secure web applications.
 
-## 📫 Conéctate conmigo
+## 📫 Connect with Me
 - 📧 [prosaleslzn@gmail.com]
 - 💼 [https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/]
 
-¡Gracias por visitar mi perfil! 🚀 
+Thanks for visiting my profile! 🚀
+
+
+
