@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am passionate about web development and cybersec
 - 🔥 Improving my **cybersecurity** knowledge
 
 ## 🌱 Goal
-My goal is to become a **full-stack developer**, combining my frontend and backend knowledge to create functional and secure web applications.
+My goal is to become a **full-stack developer**, combining my frontend and backend knowledge and my cybersecurity knowledge to create functional and secure web applications.
 
 ## 📫 Connect with Me
 - 📧 [prosaleslzn@gmail.com]
