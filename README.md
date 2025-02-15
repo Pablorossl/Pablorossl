@@ -1,17 +1,26 @@
-# Hi! I'm Pablo Rosales 👨🏻‍💻
-### Full-Stack Developer 🚀
+# 👋 ¡Hola! Soy [Pablo Rosales]
 
+## 🚀 Desarrollador Full-Stack Aprendiz
 
-## Technologies Used 🛠️
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo web y ciberseguridad en proceso de aprendizaje, con conocimientos en diversas tecnologías y un enfoque en mejorar cada día.
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
+## 🛠️ Tecnologías y Herramientas
+- 🔹 **Lenguajes:** HTML, CSS, JavaScript
+- 🔹 **Frontend:** Estoy aprendiendo y mejorando mis habilidades en el desarrollo web
+- 🔹 **Backend:** Python (con enfoque en Django y SQL en el futuro)
+- 🔹 **Control de versiones:** Git y GitHub
+- 🔹 **Sistemas operativos:** Experiencia en Linux y terminal
 
+## 📌 Actualmente aprendiendo
+- 🔥 Profundizando en **JavaScript** y buenas prácticas de desarrollo
+- 🔥 Conociendo **Django** y **SQL** para mejorar mis habilidades como full stack
+- 🔥 Adquiriendo conocimientos de ciberseguridad a medida que avanzo en desarrollo web
 
-- Web Development: HTML, CSS, JavaScript
-- Backend Technologies: Python
-- Front-End Frameworks: React
+## 🌱 Objetivo
+Mi meta es convertirme en un **desarrollador full-stack**, combinando mis conocimientos de frontend con backend, creando aplicaciones web funcionales y seguras.
 
+## 📫 Conéctate conmigo
+- 📧 [prosaleslzn@gmail.com]
+- 💼 [https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/]
 
-## Contact me 📫
-
-If you have any questions or suggestions or want to talk about web development, don´t hesitate to message me! I speak English, Spanish, French, and Portuguese!  
+¡Gracias por visitar mi perfil! 🚀 
