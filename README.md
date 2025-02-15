@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Pablo Rosales]
+# 👋 ¡Hola! Soy Pablo Rosales
 
 ## 🚀 Desarrollador Full-Stack Aprendiz
 
