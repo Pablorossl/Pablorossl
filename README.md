@@ -1,13 +1,13 @@
 # 👋 Hello! I'm Pablo Rosales. 
 
-## 🚀 Junior Frontend Developer
+## 🚀 Junior Full-Stack Developer
 
 Welcome to my GitHub profile! I am passionate about web development and cybersecurity. I am constantly learning to improve my skills.
 
 ## 🛠️ Technologies and Tools
-- 🔹 **Languages:** HTML, CSS, JavaScript
-- 🔹 **Frontend:** Learning and improving my web development skills
-- 🔹 **Backend:** Python (focusing on Django and SQL in the future)
+- 🔹 **Languages:** Python
+- 🔹 **Frontend:** Learning and improving my web development skills. (HTML, CSS, JavaScript)
+- 🔹 **Backend:** Focusing on Django and SQL in the future.
 - 🔹 **Version Control:** Git and GitHub
 - 🔹 **Operating Systems:** Experience with Linux and terminal
 
