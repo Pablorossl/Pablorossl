@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am passionate about web development and cybersec
 
 ## 🛠️ Technologies and Tools
 - 🔹 **Languages:** Python
-- 🔹 **Frontend:** Learning and improving my web development skills. (HTML, CSS, JavaScript)
+- 🔹 **Frontend:** Learning and improving my web development skills. HTML, CSS, JavaScript and React
 - 🔹 **Backend:** Focusing on Django and SQL in the future.
 - 🔹 **Version Control:** Git and GitHub
 - 🔹 **Operating Systems:** Experience with Linux and terminal
