@@ -23,7 +23,7 @@ Become a **Full-Stack Developer** who can design secure and robust web apps usin
 - 🔐 **PassFort** – Secure password generator in Python ([GitHub repo link])
 
 ## 📫 Connect with Me
-- 📧 Email: prosaleslzn@gmail.com  
+- 📧 Email: rosales.pablo1@icloud.com or prosaleslzn@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
 
 Thanks for stopping by! 🚀
