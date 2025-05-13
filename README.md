@@ -20,7 +20,7 @@ Welcome to my GitHub! Here you'll find my journey as I grow as a developer. I'm 
 Become a **Full-Stack Developer** who can design secure and robust web apps using a complete tech stack and cybersecurity best practices.
 
 ## 💼 Projects
-- 🔐 **PassFort** – Secure password generator in Python ([GitHub repo link])
+- 🔐 **PassFort** – Secure password generator in Python ([https://github.com/Pablorossl/PassFort.git])
 
 ## 📫 Connect with Me
 - 📧 Email: rosales.pablo1@icloud.com or prosaleslzn@gmail.com
