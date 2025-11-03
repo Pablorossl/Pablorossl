@@ -1,35 +1,49 @@
-# 👋 Hi! I'm Pablo Rosales
+# 👋 Pablo Rosales
 
 ## 🚀 Junior Full-Stack Developer | Web & Cybersecurity Enthusiast
 
-Welcome to my GitHub! This is where I share my journey as I grow in web development and cybersecurity. I'm passionate about building secure and functional applications, and I'm always learning to improve my skills.
+Welcome to my GitHub profile. Here I share my professional journey in web development and cybersecurity. I specialize in building secure and functional applications, applying best practices, and continuously improving my skills.
 
-## 🛠️ Technologies and Tools
-- 🔹 **Languages:** Python, JavaScript (currently learning advanced concepts).
-- 🔹 **Frontend:** HTML, CSS, JavaScript, React (currently learning).
-- 🔹 **Backend:** Django, SQL (learning full-stack development).
-- 🔹 **Version Control:** Git & GitHub.
-- 🔹 **Operating Systems:** Comfortable with Linux and terminal.
-- 🔹 **Other Tools:** Docker, PostgreSQL (exploring for future projects).
+---
 
-## 📚 Currently Learning
-- 🔥 Advanced JavaScript concepts (closures, promises, async/await).
-- 🔥 Django for full-stack development with a focus on REST APIs and authentication.
-- 🔥 Cybersecurity fundamentals, including web security, encryption, and ethical hacking practices.
+### 🛠️ Technical Skills
 
-## 🌱 Goal
-My goal is to become a **Full-Stack Developer** who can design and build secure, scalable, and robust web apps using a complete tech stack, all while applying cybersecurity best practices.
+- **Languages:** Python, JavaScript (focused on advanced concepts).
+- **Frontend:** HTML, CSS, JavaScript, React (currently learning).
+- **Backend:** Django, SQL (developing full-stack projects).
+- **Version Control:** Git & GitHub.
+- **Operating Systems:** Experienced with Linux and advanced terminal usage.
+- **Additional Tools:** Docker, PostgreSQL (exploring for future projects).
 
-## 💼 Projects
-- 🔐 **PassFort** – A secure password generator built in Python. It demonstrates my ability to work with randomization algorithms and string manipulation. [PassFort GitHub Repo](https://github.com/Pablorossl/PassFort.git)
+---
 
-## 🧑‍🏫 Contributions
-- 💻 Contributing to open-source projects focused on **cybersecurity** and **ethical hacking**.
-- 📚 Continuously improving my skills by working on real-world applications and sharing knowledge with fellow developers.
+### 📚 Current Learning & Training
 
-## 📫 Connect with Me
-- 📧 Email: rosales.pablo1@icloud.com or prosaleslzn@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
+- Deepening advanced JavaScript (closures, promises, async/await).
+- Full-stack development with Django, REST APIs, and authentication.
+- Cybersecurity fundamentals: web security, encryption, and ethical hacking practices.
 
-Thanks for stopping by! Looking forward to collaborating with other developers, learning new skills, and building exciting projects together. 🚀
+---
+
+### 🎯 Professional Objective
+
+To become a **Full-Stack Developer** capable of designing and building secure, scalable, and robust web applications, integrating cybersecurity principles at every stage of development.
+
+---
+
+### 💼 Featured Projects
+
+- **PassFort** – Secure password generator in Python. Demonstrates skills in randomization algorithms and string manipulation.  
+  [GitHub Repository](https://github.com/Pablorossl/PassFort.git)
+
+---
+
+### 📫 Contact
+
+- **Email:** rosales.pablo1@icloud.com | prosaleslzn@gmail.com
+- **LinkedIn:** [Pablo Rosales Lozano](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
+
+---
+
+Thank you for visiting my profile! I am open to collaborating on projects, learning new technologies, and contributing to the growth of the development community. 🚀
 
