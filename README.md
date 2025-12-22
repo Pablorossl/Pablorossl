@@ -85,8 +85,6 @@ A robust password generation tool built with JavaScript, implementing strong ran
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pablorossl&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
@@ -111,7 +109,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 - [ ] Obtain a **cybersecurity certification** (CompTIA Security+ or CEH)
 - [ ] Learn **TypeScript** and migrate projects to strongly-typed code
 - [ ] Expand professional network and **collaborate internationally**
-- [ ] Write **technical blog posts** to share knowledge
 - [ ] Reach **100+ GitHub contributions** consistently
 
 ---
