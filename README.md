@@ -5,7 +5,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablorossl)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosales.pablo1@icloud.com)
 
 </div>
@@ -29,14 +29,18 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Areas of Expertise
-- **Frontend Development:** Responsive design, component architecture, modern UI/UX
-- **Version Control:** Git workflows, collaborative development, code review
+- **Frontend Development:** Responsive design, component architecture, modern UI/UX principles
+- **UI/UX Design:** Prototyping and design with Figma, user-centered design
+- **Version Control:** Git workflows, collaborative development, code review, branch management
 - **Operating Systems:** Linux administration, shell scripting, terminal proficiency
-- **Security Practices:** Secure coding, authentication, data protection
-- **Problem Solving:** Algorithm design, optimization, debugging
+- **Security Practices:** Secure coding, authentication, data protection, vulnerability prevention
+- **Problem Solving:** Algorithm design, optimization, debugging, performance tuning
+- **Web Standards:** Accessibility (a11y), semantic HTML, SEO best practices
 
 ---
 
@@ -50,11 +54,13 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 ## 📚 Current Learning & Growth
 
-- 🔹 Advanced JavaScript patterns and ES6+ features
-- 🔹 React ecosystem: Hooks, Context API, and state management
-- 🔹 Cybersecurity fundamentals: web security, encryption, and secure authentication
-- 🔹 Modern deployment practices and CI/CD pipelines
-- 🔹 Performance optimization and best practices
+- 🔹 **Advanced JavaScript:** ES6+ features, async patterns, design patterns
+- 🔹 **React Ecosystem:** Hooks, Context API, Redux, state management solutions
+- 🔹 **Cybersecurity:** Web security (OWASP Top 10), encryption, secure authentication
+- 🔹 **Backend Development:** Node.js, Express, RESTful APIs, database design
+- 🔹 **DevOps & Deployment:** Docker, CI/CD pipelines, cloud platforms (AWS, Vercel)
+- 🔹 **Testing:** Jest, React Testing Library, E2E testing with Cypress
+- 🔹 **Performance:** Web Vitals, optimization techniques, accessibility standards
 
 ---
 
@@ -62,9 +68,15 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 ### 🔐 [PassFort](https://github.com/Pablorossl/PassFort.git)
 **Secure Password Generator**  
-A robust password generation tool built with JavaScript, implementing strong randomization algorithms and string manipulation techniques to create highly secure passwords.
+A robust password generation tool built with JavaScript, implementing strong randomization algorithms and string manipulation techniques to create highly secure passwords. Features customizable length, character sets, and entropy calculations.
 
-**Technologies:** `JavaScript` `Security` `CLI`
+**Technologies:** `JavaScript` `Security` `CLI` `Cryptography`
+
+**Key Features:**
+- 🔒 Cryptographically secure random generation
+- ⚙️ Customizable password parameters
+- 📊 Password strength analysis
+- 🎯 Multiple character set options
 
 ---
 
@@ -72,11 +84,11 @@ A robust password generation tool built with JavaScript, implementing strong ran
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pablorossl&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
@@ -94,10 +106,14 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ## 🎯 Goals for 2026
 
-- [ ] Contribute to open-source projects
-- [ ] Build and deploy 3+ full-stack applications
-- [ ] Master advanced React patterns and Next.js
-- [ ] Expand professional network and collaborate with developers worldwide
+- [ ] Contribute to **3+ open-source projects** in the JavaScript ecosystem
+- [ ] Build and deploy **3+ full-stack applications** with modern tech stacks
+- [ ] Master **advanced React patterns** and **Next.js** framework
+- [ ] Obtain a **cybersecurity certification** (CompTIA Security+ or CEH)
+- [ ] Learn **TypeScript** and migrate projects to strongly-typed code
+- [ ] Expand professional network and **collaborate internationally**
+- [ ] Write **technical blog posts** to share knowledge
+- [ ] Reach **100+ GitHub contributions** consistently
 
 ---
 
