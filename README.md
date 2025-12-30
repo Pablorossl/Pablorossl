@@ -96,12 +96,11 @@ A modern web application designed to bridge the communication gap between parent
 
 <div align="center">
 
-<a href="https://github.com/Pablorossl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pablorossl&theme=radical&hide_border=true)](https://github.com/Pablorossl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pablorossl&theme=radical&hide_border=true)
 
 </div>
 
