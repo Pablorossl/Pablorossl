@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -77,15 +78,30 @@ A robust password generation tool built with JavaScript, implementing strong ran
 - 📊 Password strength analysis
 - 🎯 Multiple character set options
 
+### 🎓 [SchoolSync](https://github.com/Pablorossl/SchoolSync)
+**Educational Communication Platform**  
+A modern web application designed to bridge the communication gap between parents and teachers. Built with cutting-edge technologies to provide a seamless, intuitive experience for the educational community.
+
+**Technologies:** `TypeScript` `React` `Tailwind CSS` `Responsive Design`
+
+**Key Features:**
+- 🏫 Real-time parent-teacher communication
+- 📱 Fully responsive and mobile-friendly interface
+- 🎨 Modern UI/UX design principles
+- 🔄 Currently in active development
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<a href="https://github.com/Pablorossl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pablorossl&theme=radical&hide_border=true)](https://github.com/Pablorossl)
 
 </div>
 
