@@ -95,12 +95,10 @@ A modern web application designed to bridge the communication gap between parent
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=dark)](https://github.com/Pablorossl)
 
-![](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=false)
-
-![](https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=false)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=dark)](https://github.com/Pablorossl)
 
 </div>
 
