@@ -92,20 +92,6 @@ A modern web application designed to bridge the communication gap between parent
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablorossl&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## Get In Touch
 
 I'm always open to interesting conversations and collaboration opportunities!
