@@ -96,9 +96,11 @@ A modern web application designed to bridge the communication gap between parent
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablorossl&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -111,18 +113,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 - **Email:** [rosales.pablo1@icloud.com](mailto:rosales.pablo1@icloud.com) | [prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com)
 - **LinkedIn:** [Pablo Rosales Lozano](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
 - **GitHub:** [@Pablorossl](https://github.com/Pablorossl)
-
----
-
-## Goals for 2026
-
-- [ ] Contribute to **3+ open-source projects** in the JavaScript ecosystem
-- [ ] Build and deploy **3+ full-stack applications** with modern tech stacks
-- [ ] Master **advanced React patterns** and **Next.js** framework
-- [ ] Obtain a **cybersecurity certification** (CompTIA Security+ or CEH)
-- [ ] Learn **TypeScript** and migrate projects to strongly-typed code
-- [ ] Expand professional network and **collaborate internationally**
-- [ ] Reach **100+ GitHub contributions** consistently
 
 ---
 
