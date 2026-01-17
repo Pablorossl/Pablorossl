@@ -1,4 +1,4 @@
-# Hi, I'm Pablo Rosales
+# I'm Pablo Rosales
 
 ## Trilingual Frontend Developer | Web & Cybersecurity Enthusiast
 
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - **Spanish** – Native
 - **English** – Professional proficiency
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 ---
 
-## 📚 Current Learning & Growth
+## Current Learning & Growth
 
 - 🔹 **Advanced JavaScript:** ES6+ features, async patterns, design patterns
 - 🔹 **React Ecosystem:** Hooks, Context API, Redux, state management solutions
@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 ### 🔐 [PassFort](https://github.com/Pablorossl/PassFort.git)
 **Secure Password Generator**  
@@ -73,10 +73,10 @@ A robust password generation tool built with JavaScript, implementing strong ran
 **Technologies:** `JavaScript` `Security` `CLI` `Cryptography`
 
 **Key Features:**
-- 🔒 Cryptographically secure random generation
-- ⚙️ Customizable password parameters
-- 📊 Password strength analysis
-- 🎯 Multiple character set options
+- Cryptographically secure random generation
+- Customizable password parameters
+- Password strength analysis
+- Multiple character set options
 
 ### 🎓 [SchoolSync](https://github.com/Pablorossl/SchoolSync)
 **Educational Communication Platform**  
@@ -85,36 +85,36 @@ A modern web application designed to bridge the communication gap between parent
 **Technologies:** `TypeScript` `React` `Tailwind CSS` `Responsive Design`
 
 **Key Features:**
-- 🏫 Real-time parent-teacher communication
-- 📱 Fully responsive and mobile-friendly interface
-- 🎨 Modern UI/UX design principles
-- 🔄 Currently in active development
+- Real-time parent-teacher communication
+- Fully responsive and mobile-friendly interface
+- Modern UI/UX design principles
+- Currently in active development
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=dark)](https://github.com/Pablorossl)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=dark)](https://github.com/Pablorossl)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=dark)
 
 </div>
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 📧 **Email:** [rosales.pablo1@icloud.com](mailto:rosales.pablo1@icloud.com) | [prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com)
-- 💼 **LinkedIn:** [Pablo Rosales Lozano](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
-- 🐙 **GitHub:** [@Pablorossl](https://github.com/Pablorossl)
+- **Email:** [rosales.pablo1@icloud.com](mailto:rosales.pablo1@icloud.com) | [prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com)
+- **LinkedIn:** [Pablo Rosales Lozano](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
+- **GitHub:** [@Pablorossl](https://github.com/Pablorossl)
 
 ---
 
-## 🎯 Goals for 2026
+## Goals for 2026
 
 - [ ] Contribute to **3+ open-source projects** in the JavaScript ecosystem
 - [ ] Build and deploy **3+ full-stack applications** with modern tech stacks
@@ -128,9 +128,9 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Thank you for visiting! Let's build something amazing together.** 🚀
+**Thank you for visiting! Let's build something amazing together.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pablorossl&color=blueviolet&style=flat-square)
 
