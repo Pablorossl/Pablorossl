@@ -1,4 +1,4 @@
-# I'm Pablo Rosales
+# Pablo Rosales
 
 ## Trilingual Frontend Developer | Web & Cybersecurity Enthusiast
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,7 +54,6 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 ## Current Learning & Growth
 
-- 🔹 **Advanced JavaScript:** ES6+ features, async patterns, design patterns
 - 🔹 **React Ecosystem:** Hooks, Context API, Redux, state management solutions
 - 🔹 **Cybersecurity:** Web security (OWASP Top 10), encryption, secure authentication
 - 🔹 **Backend Development:** Node.js, Express, RESTful APIs, database design
