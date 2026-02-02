@@ -10,7 +10,7 @@
 
 </div>
 
-Welcome to my GitHub profile! I'm a passionate frontend developer focused on building secure, functional, and user-friendly applications. I combine my web development expertise with a strong interest in cybersecurity to create robust digital solutions. Feel free to explore my [interactive portfolio](https://Pablorossl.github.io/Interactive-Portfolio/) to see my work in action and learn more about my journey as a developer.
+Welcome to my GitHub profile! I'm a passionate frontend developer focused on building secure, functional, and user-friendly applications. I combine my web development expertise with a strong interest in cybersecurity to create robust digital solutions. Check out my interactive portfolio (built entirely by me): https://Pablorossl.github.io/Interactive-Portfolio/
 
 ---
 
@@ -45,7 +45,7 @@ Security is paramount in my work. I implement **Security Practices** including s
 
 ## Languages
 
-I'm a native **Spanish** speaker with professional proficiency in both **English** and **French**, which enables me to collaborate effectively with international teams and communicate seamlessly across diverse cultural contexts.
+I'm a native **Spanish** speaker with professional proficiency in both **English** and **French** and a good knowledge of **Portuguese**, which enables me to collaborate effectively with international teams and communicate seamlessly across diverse cultural contexts.
 
 ---
 
@@ -85,7 +85,7 @@ The platform enables real-time parent-teacher communication, facilitating instan
 
 I'm always open to interesting conversations and collaboration opportunities! Whether you have a project in mind, want to discuss technology, or just want to connect, feel free to reach out.
 
-You can email me at [rosales.pablo1@icloud.com](mailto:rosales.pablo1@icloud.com) or [prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/), explore my code on [GitHub](@Pablorossl), or check out my [interactive portfolio](https://Pablorossl.github.io/Interactive-Portfolio/) to see my latest work and projects.
+You can email me at [rosales.pablo1@icloud.com](mailto:rosales.pablo1@icloud.com) or [prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/), or explore my code on [GitHub](@Pablorossl).
 
 ---
 
