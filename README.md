@@ -59,18 +59,6 @@ Multilingual (Spanish · English C1 · French C1), effective in international an
 
 </div>
 
----
-
-## Languages
-
-| Language | Proficiency | CEFR |
-|:---:|:---|:---:|
-| Spanish | Native | — |
-| English | Full professional proficiency | C1 |
-| French | Full professional proficiency | C1 |
-| Portuguese | Conversational | B1 |
-
----
 
 ## GitHub Stats
 
