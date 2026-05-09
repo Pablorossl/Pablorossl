@@ -46,10 +46,12 @@ Frontend developer with hands-on experience building production-grade web applic
 
 ## Languages
 
-![Spanish](https://img.shields.io/badge/🇪🇸%20Spanish-Native-2ea44f?style=flat-square)
-![English](https://img.shields.io/badge/🇬🇧%20English-C1%20Professional-0077B5?style=flat-square)
-![French](https://img.shields.io/badge/🇫🇷%20French-C1%20Professional-blueviolet?style=flat-square)
-![Portuguese](https://img.shields.io/badge/🇧🇷%20Portuguese-B1%20Conversational-orange?style=flat-square)
+| Language | Proficiency | CEFR |
+|:---:|:---|:---:|
+| Spanish | Native | — |
+| English | Full professional proficiency | C1 |
+| French | Full professional proficiency | C1 |
+| Portuguese | Conversational | B1 |
 
 ---
 
@@ -118,15 +120,9 @@ A cryptographically secure password generation tool built with JavaScript. Imple
 
 <div align="center">
 
-Open to new opportunities — feel free to reach out.
+Open to new opportunities — the best way to reach me is by email.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prosaleslzn@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://Pablorossl.github.io/Interactive-Portfolio/)
+**[prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com)**
 
 </div>
 
