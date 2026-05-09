@@ -46,16 +46,15 @@ Frontend developer with hands-on experience building production-grade web applic
 
 ## Languages
 
-🇪🇸 **Spanish** — Native &nbsp;|&nbsp; 🇬🇧 **English** — C1 &nbsp;|&nbsp; 🇫🇷 **French** — C1 &nbsp;|&nbsp; 🇧🇷 **Portuguese** — B1
+![Spanish](https://img.shields.io/badge/🇪🇸%20Spanish-Native-2ea44f?style=flat-square)
+![English](https://img.shields.io/badge/🇬🇧%20English-C1%20Professional-0077B5?style=flat-square)
+![French](https://img.shields.io/badge/🇫🇷%20French-C1%20Professional-blueviolet?style=flat-square)
+![Portuguese](https://img.shields.io/badge/🇧🇷%20Portuguese-B1%20Conversational-orange?style=flat-square)
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
 </p>
@@ -117,9 +116,19 @@ A cryptographically secure password generation tool built with JavaScript. Imple
 
 ## Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prosaleslzn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Pablorossl.github.io/Interactive-Portfolio/)
+<div align="center">
+
+Open to new opportunities — feel free to reach out.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prosaleslzn@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://Pablorossl.github.io/Interactive-Portfolio/)
+
+</div>
 
 ---
 
