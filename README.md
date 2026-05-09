@@ -2,10 +2,21 @@
 
 # Pablo Rosales
 
-### Trilingual Frontend Developer · React & Next.js · Web Security
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+Next.js;TypeScript+%7C+Tailwind+CSS+%7C+Web+Security;Freelance+%26+Open+to+new+opportunities" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Pablorossl.github.io/Interactive-Portfolio/)
+<br/>
+
+<a href="https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://Pablorossl.github.io/Interactive-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:prosaleslzn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pablorossl&color=blueviolet&style=flat-square)
 
