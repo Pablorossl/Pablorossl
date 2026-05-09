@@ -59,17 +59,6 @@ Multilingual (Spanish · English C1 · French C1), effective in international an
 
 </div>
 
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pablorossl&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## Featured Projects
@@ -124,7 +113,17 @@ A cryptographically secure password generation tool built with JavaScript. Imple
 - Web performance: Core Web Vitals, bundle optimization
 
 ---
+## GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pablorossl&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 ## Get In Touch
 
 <div align="center">
