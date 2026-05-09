@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Pablorossl.github.io/Interactive-Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prosaleslzn@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pablorossl&color=blueviolet&style=flat-square)
 
@@ -47,25 +46,24 @@ Frontend developer with hands-on experience building production-grade web applic
 
 ## Languages
 
-| Language | Level |
-|---|---|
-| Spanish | Native |
-| English | Professional proficiency (C1) |
-| French | Professional proficiency (C1) |
-| Portuguese | Working knowledge |
+| | Language | Level | Notes |
+|---|---|---|---|
+| 🇪🇸 | Spanish | Native | Mother tongue |
+| 🇬🇧 | English | C1 | Professional working proficiency |
+| 🇫🇷 | French | C1 | Professional working proficiency |
+| 🇧🇷 | Portuguese | B1 | Conversational |
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -124,12 +122,11 @@ A cryptographically secure password generation tool built with JavaScript. Imple
 
 ## Get In Touch
 
-| | |
-|---|---|
-| 📧 Email | [prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com) · [rosales.pablo1@icloud.com](mailto:rosales.pablo1@icloud.com) |
-| 💼 LinkedIn | [pablo-rosales-lozano](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/) |
-| 🌐 Portfolio | [Pablorossl.github.io/Interactive-Portfolio](https://Pablorossl.github.io/Interactive-Portfolio/) |
-| 💻 GitHub | [@Pablorossl](https://github.com/Pablorossl) |
+📧 [prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com) &nbsp;·&nbsp; [rosales.pablo1@icloud.com](mailto:rosales.pablo1@icloud.com)
+
+💼 [LinkedIn — pablo-rosales-lozano](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
+
+🌐 [Portfolio](https://Pablorossl.github.io/Interactive-Portfolio/)
 
 ---
 
