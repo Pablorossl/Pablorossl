@@ -4,6 +4,8 @@
 
 # Pablo Rosales
 
+### Frontend Developer
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Tailwind+CSS;Security-first+development+practices;Open+to+full-time+%26+freelance+opportunities" alt="Typing SVG" />
 
 <br/>
@@ -26,7 +28,9 @@
 
 ---
 
-Frontend developer with hands-on experience building production-grade web applications, contributing to real-world freelance projects within cross-functional teams, and applying security-first development practices. I work across the full frontend stack — from UI design in Figma to deployment — and I bring a multilingual perspective that makes me effective in international, distributed teams.
+Frontend developer specializing in **TypeScript**, **React**, and **Next.js**. I build production-grade applications — from UI design in Figma to deployment — with a security-first mindset. Currently contributing to a live freelance project in a cross-functional team, shipping features in an agile workflow.
+
+Multilingual (Spanish · English C1 · French C1), effective in international and distributed teams.
 
 > 📄 **Open to full-time, contract, and freelance opportunities.**  
 > 🌍 Available remotely · Based in Spain
@@ -37,6 +41,8 @@ Frontend developer with hands-on experience building production-grade web applic
 
 <div align="center">
 
+**Frontend**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,6 +50,11 @@ Frontend developer with hands-on experience building production-grade web applic
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+**Backend & Tooling**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -68,6 +79,10 @@ Frontend developer with hands-on experience building production-grade web applic
 ---
 
 ## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pablorossl&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
