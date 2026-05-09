@@ -4,9 +4,7 @@
 
 # Pablo Rosales
 
-### Frontend Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Tailwind+CSS;Security-first+development+practices;Open+to+full-time+%26+freelance+opportunities" alt="Typing SVG" />
+### Frontend Developer · TypeScript · React · Next.js
 
 <br/>
 
