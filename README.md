@@ -1,8 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=140&section=header&text=Pablo%20Rosales&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20%7C%20Web%20Security&descAlignY=60&descAlign=50&descSize=16" />
+
 <div align="center">
 
-# Pablo Rosales
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+Next.js;TypeScript+%7C+Tailwind+CSS+%7C+Web+Security;Freelance+%26+Open+to+new+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Tailwind+CSS;Security-first+development+practices;Open+to+full-time+%26+freelance+opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -16,8 +16,9 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pablorossl&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Pablorossl&color=007ACC&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -142,4 +143,6 @@ Open to new opportunities — the best way to reach me is by email.
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=80&section=footer" />
 
