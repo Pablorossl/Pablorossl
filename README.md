@@ -43,18 +43,6 @@ Frontend developer with hands-on experience building production-grade web applic
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### Areas of Expertise
-
-| Area | Highlights |
-|---|---|
-| **Frontend Development** | Responsive design, component architecture, React Hooks, Context API, state management |
-| **Next.js** | App Router, SSR/SSG, API routes, performance optimization |
-| **UI/UX Design** | Figma prototyping, user-centered design, design systems, accessibility (WCAG) |
-| **Security** | OWASP Top 10, secure auth, input validation, data protection |
-| **Version Control** | Git workflows, branch management, code reviews, collaborative development |
-| **Backend Fundamentals** | Node.js, REST APIs, database design |
-| **DevOps** | Docker, CI/CD pipelines, Vercel, AWS (learning) |
-
 ---
 
 ## Languages
@@ -63,8 +51,21 @@ Frontend developer with hands-on experience building production-grade web applic
 |---|---|
 | Spanish | Native |
 | English | Professional proficiency (C1) |
-| French | Professional proficiency |
+| French | Professional proficiency (C1) |
 | Portuguese | Working knowledge |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -115,16 +116,13 @@ A cryptographically secure password generation tool built with JavaScript. Imple
 
 ## Currently Learning
 
-- Advanced Next.js patterns: middleware, ISR, Server Actions
+- Next.js Server Actions & advanced rendering patterns
 - Testing: Jest, React Testing Library, Cypress (E2E)
-- DevOps: Docker, GitHub Actions CI/CD
 - Web performance: Core Web Vitals, bundle optimization
 
 ---
 
 ## Get In Touch
-
-I'm actively looking for new opportunities and always open to interesting projects and conversations.
 
 | | |
 |---|---|
