@@ -1,6 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=140&section=header&text=Pablo%20Rosales&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20%7C%20Web%20Security&descAlignY=60&descAlign=50&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header" />
 
 <div align="center">
+
+# Pablo Rosales
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Tailwind+CSS;Security-first+development+practices;Open+to+full-time+%26+freelance+opportunities" alt="Typing SVG" />
 
