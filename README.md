@@ -6,8 +6,6 @@
 
 ### Frontend Developer · TypeScript · React · Next.js
 
-<br/>
-
 <a href="https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -17,8 +15,6 @@
 <a href="mailto:prosaleslzn@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pablorossl&color=007ACC&style=flat-square&label=Profile+Views)
 
