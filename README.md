@@ -131,11 +131,11 @@ Cryptographically secure password tool with entropy calculations, customizable c
 
 <div align="center">
 
-![Next.js Server Actions](https://img.shields.io/badge/Next.js_Server_Actions-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-4285F4?style=flat-square&logo=google&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Cybersecurity Fundamentals](https://img.shields.io/badge/Cybersecurity_Fundamentals-1A1A2E?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 
 </div>
 
