@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2b6b,100:56b4e9&height=200&section=header&text=Pablo%20Rosales&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20TypeScript%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=18&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+production-grade+web+applications;TypeScript+%7C+React+%7C+Next.js;Security-first+mindset;Open+to+full-time+%26+freelance+opportunities)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
