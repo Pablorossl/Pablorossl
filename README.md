@@ -111,16 +111,6 @@ Cryptographically secure password tool with entropy calculations, customizable c
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-| | |
-|---|---|
-| 🚀 **Focus** | Production-grade web apps, TypeScript-first |
-| 🤝 **Style** | Agile teams · Code reviews · Cross-functional |
-| 🔐 **Mindset** | Security-first, clean architecture |
-| 🌍 **Languages** | Spanish · English C1 · French C1 |
-| 📍 **Location** | Spain · Open to remote worldwide |
-
 </div>
 
 ---
