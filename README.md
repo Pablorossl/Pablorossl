@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pablo%20Rosales&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20TypeScript%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=18&descColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:add8e6,100:fff8dc&height=200&section=header&text=Pablo%20Rosales&fontSize=50&fontColor=1a365d&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20TypeScript%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=18&descColor=1a365d" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+production-grade+web+applications;TypeScript+%7C+React+%7C+Next.js;Security-first+mindset;Open+to+full-time+%26+freelance+opportunities)](https://git.io/typing-svg)
 
@@ -147,7 +147,7 @@ Cryptographically secure password tool with entropy calculations, customizable c
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:add8e6,100:fff8dc&height=100&section=footer" />
 
 </div>
 
