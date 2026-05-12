@@ -109,16 +109,17 @@ Cryptographically secure password tool with entropy calculations, customizable c
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pablorossl&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+| | |
+|---|---|
+| 🚀 **Focus** | Production-grade web apps, TypeScript-first |
+| 🤝 **Style** | Agile teams · Code reviews · Cross-functional |
+| 🔐 **Mindset** | Security-first, clean architecture |
+| 🌍 **Languages** | Spanish · English C1 · French C1 |
+| 📍 **Location** | Spain · Open to remote worldwide |
 
 </div>
 
