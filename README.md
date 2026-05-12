@@ -109,12 +109,12 @@ Cryptographically secure password tool with entropy calculations, customizable c
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
 
 <br/><br/>
 
