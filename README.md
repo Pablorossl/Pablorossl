@@ -105,16 +105,6 @@ Cryptographically secure password tool with entropy calculations, customizable c
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Currently Learning
 
 <div align="center">
@@ -124,6 +114,16 @@ Cryptographically secure password tool with entropy calculations, customizable c
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Cybersecurity Fundamentals](https://img.shields.io/badge/Cybersecurity_Fundamentals-1A1A2E?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
 
 </div>
 
