@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2b6b,100:56b4e9&height=200&section=header&text=Pablo%20Rosales&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20TypeScript%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=18&descColor=ffffff" />
 
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Pablorossl.github.io/Interactive-Portfolio/)
