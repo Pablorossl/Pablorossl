@@ -16,8 +16,6 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
 ### About Me
 
 Frontend developer specializing in **TypeScript**, **React**, and **Next.js**. I build production-grade applications — from UI design in Figma to deployment — with a security-first mindset.
@@ -116,6 +114,10 @@ Cryptographically secure password tool with entropy calculations, customizable c
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pablorossl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablorossl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
