@@ -83,16 +83,18 @@ Multilingual: **Spanish · English C1 · French C1**, effective in international
 ### 🎓 [SchoolSync](https://github.com/Pablorossl/SchoolSync)
 **Educational Communication Platform** · *Freelance — Active*
 
-Full-stack web application bridging communication between parents and teachers, built collaboratively with a multi-developer team in an agile environment.
+Production app currently serving **800+ students and parents**, bridging communication between families and teachers. Actively developed with a cross-functional team in an agile workflow.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
+- Authentication system & protected login flow (JWT-based)
+- REST API integration with Axios — interceptors, error handling, typed contracts
 - Next.js App Router with TypeScript in a shared codebase
-- Java backend API integration and data contracts
 - Mobile-first, accessible UI
 - Code reviews, sprint planning, and architecture discussions
 
