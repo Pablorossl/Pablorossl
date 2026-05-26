@@ -18,8 +18,8 @@ Currently contributing to a live freelance project in a cross-functional team, s
 
 Multilingual: **Spanish · English C1 · French C1**, effective in international and distributed teams.
 
-- 📄 Open to **full-time, contract, and freelance** opportunities
-- 🌍 Available remotely · Based in **Spain**
+- Open to **full-time, contract, and freelance** opportunities
+- Available remotely · Based in **Spain**
 
 <br clear="right"/>
 
@@ -78,7 +78,7 @@ Multilingual: **Spanish · English C1 · French C1**, effective in international
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [KiddoSync](https://github.com/Pablorossl/SchoolSync)
+### [KiddoSync](https://github.com/Pablorossl/SchoolSync)
 **Educational Communication Platform** · *Freelance — Active*
 
 Production app currently serving **800+ students and parents**, bridging communication between families and teachers. Actively developed with a cross-functional team in an agile workflow.
@@ -99,7 +99,7 @@ Production app currently serving **800+ students and parents**, bridging communi
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [PassFort](https://github.com/Pablorossl/PassFort)
+### [PassFort](https://github.com/Pablorossl/PassFort)
 **Secure Password Generator**
 
 Cryptographically secure password tool with entropy calculations, customizable character sets, and real-time strength analysis.
@@ -112,6 +112,46 @@ Cryptographically secure password tool with entropy calculations, customizable c
 - Customizable length and character set composition
 - Built-in password strength scoring and feedback
 - Lightweight, zero-dependency implementation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Mare Sushi Website (https://github.com/Pablorossl/Mare-Sushi)
+**Restaurant Website** · *Client Project — In Progress*
+
+Designing and building a real website for a new sushi restaurant with a professional UI/UX approach focused on clarity, conversion, and brand consistency. Currently strengthening booking-form workflows for reservation requests and scalable content management.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-0d2b6b?style=flat-square&logo=google&logoColor=white)
+
+- Professional restaurant-focused UI/UX and conversion-oriented page structure
+- Reservation form design and implementation for real booking workflows
+- Responsive layout, accessibility-first components, and performance-focused rendering
+- SEO-oriented architecture with semantic structure and metadata strategy
+
+</td>
+<td width="50%" valign="top">
+
+### International School Website (https://github.com/Pablorossl/International-School)
+**Institutional Web Platform** · *Work Project — Ongoing Updates*
+
+Actively updating the real website of an international school where I work, delivering a premium web experience with attractive imagery, strong visual hierarchy, and a complex but maintainable frontend architecture.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-0d2b6b?style=flat-square&logo=google&logoColor=white)
+
+- Premium UI/UX improvements with editorial-quality visual presentation
+- Frontend architecture updates for scalable sections and reusable components
+- Performance and maintainability improvements across complex page flows
+- SEO enhancements for discoverability, indexing quality, and content structure
 
 </td>
 </tr>
