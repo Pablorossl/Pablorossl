@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0d2b6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Pablorossl.github.io/Interactive-Portfolio/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-1B1F23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prosaleslzn@gmail.com)
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Pablorossl&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
