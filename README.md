@@ -118,7 +118,7 @@ Cryptographically secure password tool with entropy calculations, customizable c
 <tr>
 <td width="50%" valign="top">
 
-### Mare Sushi Website (https://github.com/Pablorossl/Mare-Sushi)
+### [Mare Sushi Website](https://github.com/Pablorossl/Mare-Sushi)
 **Restaurant Website** · *Client Project — In Progress*
 
 Designing and building a real website for a new sushi restaurant with a professional UI/UX approach focused on clarity, conversion, and brand consistency. Currently strengthening booking-form workflows for reservation requests and scalable content management.
@@ -137,7 +137,7 @@ Designing and building a real website for a new sushi restaurant with a professi
 </td>
 <td width="50%" valign="top">
 
-### International School Website (https://github.com/Pablorossl/International-School)
+### [International School Website](https://github.com/Pablorossl/International-School)
 **Institutional Web Platform** · *Work Project — Ongoing Updates*
 
 Actively updating the real website of an international school where I work, delivering a premium web experience with attractive imagery, strong visual hierarchy, and a complex but maintainable frontend architecture.
@@ -191,7 +191,7 @@ Actively updating the real website of an international school where I work, deli
 
 **[prosaleslzn@gmail.com](mailto:prosaleslzn@gmail.com)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2b6b,100:56b4e9&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2b6b,100:56b4e9&height=120&section=footer" />
 
 </div>
 
