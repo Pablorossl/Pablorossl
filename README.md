@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2b6b,100:56b4e9&height=200&section=header&text=Pablo%20Rosales&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20TypeScript%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=18&descColor=ffffff" />
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rosales-lozano-a29428303/)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0d2b6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Pablorossl.github.io/Interactive-Portfolio/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-1B1F23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prosaleslzn@gmail.com)
 
 
@@ -80,7 +79,7 @@ Multilingual: **Spanish · English C1 · French C1**, effective in international
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [SchoolSync](https://github.com/Pablorossl/SchoolSync)
+### 🎓 [KiddoSync](https://github.com/Pablorossl/SchoolSync)
 **Educational Communication Platform** · *Freelance — Active*
 
 Production app currently serving **800+ students and parents**, bridging communication between families and teachers. Actively developed with a cross-functional team in an agile workflow.
