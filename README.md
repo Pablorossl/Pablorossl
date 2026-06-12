@@ -109,44 +109,6 @@ Production app currently serving **800+ students and parents**, bridging communi
 </td>
 <td width="50%" valign="top">
 
-### [PassFort](https://github.com/Pablorossl/PassFort)
-**Secure Password Generator**
-
-Cryptographically secure password tool with entropy calculations, customizable character sets, and real-time strength analysis.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<br/>
-
-- No `Math.random()` — fully cryptographic randomization
-- Customizable length and character set composition
-- Built-in password strength scoring and feedback
-- Lightweight, zero-dependency implementation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Mare Sushi Website](https://github.com/Pablorossl/Mare-Sushi)
-**Restaurant Website** · *Client Project — In Progress*
-
-Designing and building a real website for a new sushi restaurant with a professional UI/UX approach focused on clarity, conversion, and brand consistency. Currently strengthening booking-form workflows for reservation requests and scalable content management.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-0d2b6b?style=flat-square&logo=google&logoColor=white)
-
-- Professional restaurant-focused UI/UX and conversion-oriented page structure
-- Reservation form design and implementation for real booking workflows
-- Responsive layout, accessibility-first components, and performance-focused rendering
-- SEO-oriented architecture with semantic structure and metadata strategy
-
-</td>
-<td width="50%" valign="top">
-
 ### [International School Website](https://github.com/Pablorossl/International-School)
 **Institutional Web Platform** · *Work Project — Ongoing Updates*
 
@@ -157,6 +119,7 @@ Actively updating the real website of an international school where I work, deli
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-0d2b6b?style=flat-square&logo=google&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 - Premium UI/UX improvements with editorial-quality visual presentation
 - Frontend architecture updates for scalable sections and reusable components
