@@ -12,7 +12,7 @@
 
 ### About Me
 
-Frontend developer specializing in **TypeScript**, **React**, and **Next.js**. I build production-grade applications — from UI design in Figma to deployment — with a security-first mindset.
+Software developer specializing in **TypeScript**, **React**, and **Next.js**. I build production-grade applications — from UI design in Figma to deployment — with a security-first mindset.
 
 Currently contributing to a live freelance project in a cross-functional team, shipping features in an agile workflow.
 
@@ -63,6 +63,26 @@ Multilingual: **Spanish · English C1 · French C1**, effective in international
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>Database</b></sub></td>
+<td>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logo=turso&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>Testing & Validation</b></sub></td>
+<td>
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 </td>
 </tr>
@@ -128,6 +148,34 @@ Actively updating the real website of an international school where I work, deli
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [AuditFlow](https://github.com/Pablorossl/AuditFlow)
+**IT Audit & Risk Reporting Platform** · *Portfolio — Active*
+
+Full-stack audit findings platform unifying technical vulnerabilities (CVSS 3.1) and ITGC process controls (Access Lifecycle, Change Management, SoD Matrix) into a single severity model, dashboard, and PDF report — built solo across 10 phases plus a dedicated authentication and i18n project, with 867 automated tests green.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logo=turso&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+- Custom authentication (Argon2id, opaque session tokens, HttpOnly cookies) with role-based access control (auditor/admin) enforced at the data-access boundary
+- Dual-domain risk engine converging CVSS 3.1 base scoring and Probability×Impact ITGC severity onto one qualitative scale
+- Server Actions + Zod validation across every entity, with a pure domain layer decoupled from Next.js and Prisma
+- Automated PDF reporting (@react-pdf/renderer) with embedded fonts, multi-section layout, and full internationalization
+- next-intl localization (English/Spanish/French) across the UI and PDF report, without URL locale routing
+- Unified Recharts dashboard with ISO 27001:2022 / NIST CSF 2.0 framework coverage mapping
+
+</td>
+</tr>
 </table>
 
 ---
@@ -136,7 +184,6 @@ Actively updating the real website of an international school where I work, deli
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
