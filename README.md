@@ -197,7 +197,7 @@ Actively updating the real website of an international school where I work, deli
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
+<img width="495" src="https://streak-stats.demolab.com?user=Pablorossl&theme=tokyonight&hide_border=true" />
 
 </div>
 
